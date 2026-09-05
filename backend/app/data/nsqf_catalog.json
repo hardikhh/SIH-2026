@@ -1,0 +1,2005 @@
+[
+  {
+    "id": "SGJ/Q0101",
+    "sector": "Green Jobs & Renewable Energy",
+    "trade_title": "Solar PV Installer (Suryamitra)",
+    "trade_title_hi": "सोलर पीवी इंस्टॉलर (सूर्यमित्र)",
+    "trade_title_gu": "સોલર પીવી ઇન્સ્ટોલર (સૂર્યમિત્ર)",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "High (Rooftop & field work)",
+    "core_skills": [
+      "solar panel mounting",
+      "inverter wiring",
+      "electrical measurement",
+      "safety gear handling",
+      "battery bank maintenance",
+      "multimeter usage",
+      "rooftop civil anchoring"
+    ],
+    "transferable_skills": [
+      "basic electrical work",
+      "wiring repair",
+      "hand tool usage",
+      "physical fitness"
+    ],
+    "keywords": [
+      "solar", "solar panel", "suryamitra", "renewable", "inverter", "rooftop", "sun", "solar power",
+      "सोलर", "सौर ऊर्जा", "सूर्यमित्र", "सोलर पैनल", "इन्वर्टर",
+      "સોલર", "સૂર્યમિત્ર", "સોલર પેનલ", "સૌર ઊર્જા"
+    ],
+    "wage_route": {
+      "job_role": "Rooftop Solar Site Technician / Solar Farm Operator",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "Tata Power Solar, Adani Solar, Waaree Energies, EPC Contractors"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Solar Rooftop Installation & AMC Service Agency",
+      "pm_ajay_grant_support": "₹50,000 equipment subsidy + Mudra Shishu loan link",
+      "equipment_needed": "Safety harness, digital multimeter, crimping tools, power drills, ladder",
+      "estimated_monthly_income": "₹28,000 - ₹50,000 / month"
+    }
+  },
+  {
+    "id": "SGJ/Q0102",
+    "sector": "Green Jobs & Renewable Energy",
+    "trade_title": "Solar PV Installer - Helper",
+    "trade_title_hi": "सोलर पीवी इंस्टॉलर - हेल्पर",
+    "trade_title_gu": "સોલર પીવી ઇન્સ્ટોલર - હેલ્પર",
+    "nsqf_level": 2,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "High (Site assistance)",
+    "core_skills": [
+      "solar panel carrying",
+      "civil foundation assisting",
+      "cable pulling",
+      "module cleaning",
+      "basic tool handling"
+    ],
+    "transferable_skills": [
+      "manual labor",
+      "construction helper",
+      "loading unloading",
+      "cleaning"
+    ],
+    "keywords": [
+      "solar helper", "panel cleaning", "solar labor",
+      "सोलर हेल्पर", "मजदूरी",
+      "સોલર હેલ્પર", "મજૂરી"
+    ],
+    "wage_route": {
+      "job_role": "Solar Plant Assistant / Maintenance Helper",
+      "starting_salary_range": "₹12,000 - ₹15,000 / month",
+      "hiring_companies": "Solar parks, EPC construction vendors"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Solar Panel Cleaning & Maintenance Micro-Crew",
+      "pm_ajay_grant_support": "₹25,000 tool grant under PM-AJAY GIA",
+      "equipment_needed": "Water pressure pump, microfiber brushes, safety ropes",
+      "estimated_monthly_income": "₹16,000 - ₹26,000 / month"
+    }
+  },
+  {
+    "id": "SGJ/Q0201",
+    "sector": "Green Jobs & Renewable Energy",
+    "trade_title": "Solar Water Pump Technician",
+    "trade_title_hi": "सोलर वाटर पंप तकनीशियन (कृषि पंप)",
+    "trade_title_gu": "સોલર વોટર પંપ ટેકનિશિયન (ખેતી પંપ)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 250,
+    "mobility_required": "High (Farm visits)",
+    "core_skills": [
+      "submersible solar pump installation",
+      "vfd solar drive controller configuration",
+      "dc wiring and earthing",
+      "borewell piping connection",
+      "fault diagnostic"
+    ],
+    "transferable_skills": [
+      "farm motor repair",
+      "submersible pump handling",
+      "plumbing",
+      "electrical wiring"
+    ],
+    "keywords": [
+      "solar pump", "kusum pump", "farm motor", "submersible", "agriculture motor",
+      "सोलर पंप", "कुसुम योजना", "खेत की मोटर", "सबमर्सिबल",
+      "સોલર પંપ", "કુસુમ યોજના", "ખેતી મોટર", "બોરવેલ"
+    ],
+    "wage_route": {
+      "job_role": "PM-KUSUM Solar Pump Service Engineer",
+      "starting_salary_range": "₹16,000 - ₹22,000 / month",
+      "hiring_companies": "Shakti Pumps, Lubi Pumps, Jain Irrigation, Kirloskar"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Agricultural Solar Pump Installation & Maintenance Agency",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA tool & transport grant",
+      "equipment_needed": "Pipe wrenches, insulation tester, digital clamp meter, chain pulley",
+      "estimated_monthly_income": "₹30,000 - ₹55,000 / month"
+    }
+  },
+  {
+    "id": "ELE/Q6001",
+    "sector": "Electronics & Hardware",
+    "trade_title": "Electrician Domestic Solutions",
+    "trade_title_hi": "घरेलू विद्युत तकनीशियन (इलेक्ट्रीशियन)",
+    "trade_title_gu": "ડોમેસ્ટિક ઇલેક્ટ્રિશિયન (વાયરમેન)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 350,
+    "mobility_required": "Moderate (Local house visits)",
+    "core_skills": [
+      "house wiring",
+      "switchboard installation",
+      "mcb and earthing",
+      "fan and light fixture repair",
+      "circuit testing",
+      "multimeter usage",
+      "conduit pipe laying"
+    ],
+    "transferable_skills": [
+      "wire twisting",
+      "pliers and tester usage",
+      "drilling",
+      "basic electrical work"
+    ],
+    "keywords": [
+      "electrician", "electric", "wiring", "wireman", "switchboard", "mcb", "earthing", "lighting", "motor", "bijli",
+      "इलेक्ट्रीशियन", "बिजली", "वायरिंग", "लाइट", "पंखा", "वायरमैन", "स्विचबोर्ड",
+      "ઇલેક્ટ્રિશિયન", "વાયરિંગ", "વાયરમેન", "વીજળી", "પંખો", "સ્વિચબોર્ડ"
+    ],
+    "wage_route": {
+      "job_role": "Residential Maintenance Electrician / Facility Technician",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "Urban Company partners, residential townships, L&T Realty"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Electrical Contracting & Home Repair Service Center",
+      "pm_ajay_grant_support": "₹50,000 toolkit & inventory grant under PM-AJAY GIA",
+      "equipment_needed": "Insulated professional toolkit, Megger tester, hammer drill, wire stripper",
+      "estimated_monthly_income": "₹22,000 - ₹42,000 / month"
+    }
+  },
+  {
+    "id": "ELE/Q8104",
+    "sector": "Electronics & Hardware",
+    "trade_title": "Mobile Phone Hardware Repair Technician",
+    "trade_title_hi": "मोबाइल फोन हार्डवेयर मरम्मत तकनीशियन",
+    "trade_title_gu": "મોબાઇલ ફોન રિપેરિંગ ટેકનિશિયન",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "Low / Sedentary (Shop bench work - PwD Friendly)",
+    "core_skills": [
+      "soldering and desoldering",
+      "screen and folder replacement",
+      "charging port repair",
+      "battery testing",
+      "smd rework station usage",
+      "multimeter diagnostic",
+      "short circuit tracing"
+    ],
+    "transferable_skills": [
+      "fine hand motor skills",
+      "precision handling",
+      "basic electronics",
+      "smartphone literacy"
+    ],
+    "keywords": [
+      "mobile", "mobile repair", "phone repair", "smartphone", "screen replacement", "folder", "charging jack", "soldering",
+      "मोबाइल", "फोन", "स्मार्टफोन", "स्क्रीन", "फोल्डर", "चार्जिंग", "रिपेयरिंग",
+      "મોબાઇલ", "ફોન", "સ્ક્રીન", "રિપેરિંગ", "ચાર્જિંગ પિન"
+    ],
+    "wage_route": {
+      "job_role": "Authorized Brand Service Center Technician (Samsung, Xiaomi, Vivo)",
+      "starting_salary_range": "₹16,000 - ₹25,000 / month",
+      "hiring_companies": "B2X, Brand Service Centers, Reliance Digital, Poorvika"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Mobile Care & Accessory Micro-Store",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA capital subsidy + Mudra loan",
+      "equipment_needed": "SMD hot air gun, soldering station, touch screen separator, magnifying lamp",
+      "estimated_monthly_income": "₹25,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "ELE/Q4605",
+    "sector": "Electronics & Hardware",
+    "trade_title": "CCTV Installation & Security Systems Technician",
+    "trade_title_hi": "सीसीटीवी स्थापना एवं सुरक्षा उपकरण तकनीशियन",
+    "trade_title_gu": "સીસીટીવી ઇન્સ્ટોલેશન અને સિક્યોરિટી ટેકનિશિયન",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 240,
+    "mobility_required": "Moderate (On-site client visits)",
+    "core_skills": [
+      "coaxial and cat6 cable routing and crimping",
+      "analog and ip camera mounting",
+      "dvr and nvr configuration and storage setup",
+      "router port forwarding and remote mobile viewing",
+      "smps power supply wiring"
+    ],
+    "transferable_skills": [
+      "basic computer literacy",
+      "wall drilling",
+      "cable pulling",
+      "screwdriver tools"
+    ],
+    "keywords": [
+      "cctv", "camera", "security camera", "surveillance", "dvr", "nvr", "ip camera", "networking",
+      "सीसीटीवी", "कैमरा", "सुरक्षा कैमरा", "डीवीआर",
+      "સીસીટીવી", "કેમેરા", "સિક્યોરિટી કેમેરા"
+    ],
+    "wage_route": {
+      "job_role": "Security Systems Field Technician",
+      "starting_salary_range": "₹15,000 - ₹23,000 / month",
+      "hiring_companies": "CP Plus authorized partners, Hikvision dealers, Securitas"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Electronic Security & CCTV Installation Agency",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA grant for test monitors and toolkits",
+      "equipment_needed": "CCTV test monitor, cable crimper, hammer drill, multi-tester, ladder",
+      "estimated_monthly_income": "₹26,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "ELE/Q3102",
+    "sector": "Electronics & Hardware",
+    "trade_title": "Home Appliances Maintenance Technician (Washing Machine, Fridge, Microwave)",
+    "trade_title_hi": "घरेलू उपकरण तकनीशियन (फ्रिज, वाशिंग मशीन, मिक्सर)",
+    "trade_title_gu": "હોમ એપ્લાયન્સિસ ટેકનિશિયન (ફ્રિજ, વોશિંગ મશીન)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "Moderate (Home visits)",
+    "core_skills": [
+      "refrigerator compressor and gas charging",
+      "washing machine motor and drum repair",
+      "mixer grinder motor rewinding",
+      "microwave magnetron checking",
+      "thermostat replacement"
+    ],
+    "transferable_skills": [
+      "electrical appliances",
+      "hand tools",
+      "basic plumbing",
+      "circuit checking"
+    ],
+    "keywords": [
+      "home appliance", "fridge", "refrigerator", "washing machine", "mixer", "cooler", "repair",
+      "फ्रिज", "वाशिंग मशीन", "मिक्सर", "घरेलू उपकरण", "कूलर",
+      "ફ્રિજ", "વોશિંગ મશીન", "મિક્સર", "કૂલર"
+    ],
+    "wage_route": {
+      "job_role": "Service Franchisee Technician (LG, Whirlpool, Godrej)",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "LG, Samsung, Whirlpool Authorised Centers, Urban Company"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Home Appliances On-Call Repair Center",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA toolkit grant",
+      "equipment_needed": "Gas charging manifold, vacuum pump, multimeter, bearing puller",
+      "estimated_monthly_income": "₹24,000 - ₹44,000 / month"
+    }
+  },
+  {
+    "id": "AMH/Q1947",
+    "sector": "Apparel, Made-Ups & Home Furnishing",
+    "trade_title": "Self Employed Tailor",
+    "trade_title_hi": "स्व-रोजगार दर्जी (लेडीज व जेंट्स टेलर)",
+    "trade_title_gu": "સ્વરોજગાર દરજી (સિલાઈ કામ)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 340,
+    "mobility_required": "Low / Sedentary (Home or shop - Highly Suitable for Women & PwD)",
+    "core_skills": [
+      "garment measurement",
+      "pattern drafting and cutting",
+      "sewing machine operation",
+      "stitching blouses, suits and shirts",
+      "hemming and button holing",
+      "interlock and overlock stitching",
+      "ironing and finishing"
+    ],
+    "transferable_skills": [
+      "hand needlework",
+      "embroidery",
+      "cloth cutting",
+      "color matching"
+    ],
+    "keywords": [
+      "tailor", "tailoring", "sewing", "stitching", "cloth", "garment", "blouse", "kurti", "suit", "boutique", "silai", "darji",
+      "सिलाई", "दर्जी", "टेलर", "कपड़ा", "ब्लाउज", "कुर्ती", "सूट", "बुटीक", "सिलाई मशीन",
+      "દરજી", "સિલાઈ", "કપડાં", "બ્લાઉઝ", "કુર્તી", "બુટિક", "સિલાઈ મશીન"
+    ],
+    "wage_route": {
+      "job_role": "Sample Tailor / Assembly Line Master in Textile Unit",
+      "starting_salary_range": "₹14,000 - ₹19,000 / month",
+      "hiring_companies": "Arvind Mills, Shahi Exports, Raymond, Garment Export Units"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Home Boutique / Village Sewing Center",
+      "pm_ajay_grant_support": "₹35,000 for motorized sewing machine + starter cloth inventory under PM-AJAY GIA",
+      "equipment_needed": "Motorized high-speed sewing machine, overlock machine, cutting table, steam iron",
+      "estimated_monthly_income": "₹18,000 - ₹38,000 / month"
+    }
+  },
+  {
+    "id": "AMH/Q0301",
+    "sector": "Apparel, Made-Ups & Home Furnishing",
+    "trade_title": "Sewing Machine Operator (Commercial Unit)",
+    "trade_title_hi": "सिलाई मशीन ऑपरेटर (गारमेंट फैक्ट्री)",
+    "trade_title_gu": "સિલાઈ મશીન ઓપરેટર (ફેક્ટરી)",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 300,
+    "mobility_required": "Moderate (Factory shop-floor)",
+    "core_skills": [
+      "industrial sewing machine operation (single needle lockstitch)",
+      "stitch density control",
+      "component assembly (collars, sleeves, pockets)",
+      "bobbin winding and thread tension adjustment",
+      "garment defect inspection"
+    ],
+    "transferable_skills": [
+      "pedal coordination",
+      "needle threading",
+      "fabric handling"
+    ],
+    "keywords": [
+      "sewing machine operator", "garment factory", "industrial tailor", "stitcher",
+      "मशीन ऑपरेटर", "फैक्ट्री", "सिलाई",
+      "મશીન ઓપરેટર", "ફેક્ટરી", "સિલાઈ"
+    ],
+    "wage_route": {
+      "job_role": "Garment Assembly Line Operator",
+      "starting_salary_range": "₹13,000 - ₹18,000 / month + overtime & attendance bonus",
+      "hiring_companies": "Arvind Mills, Gokaldas Exports, Welspun, Alok Industries"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Apparel Job-Work Contract Unit",
+      "pm_ajay_grant_support": "₹40,000 PM-AJAY GIA machinery grant",
+      "equipment_needed": "Industrial lockstitch machine, scissor sets, thread stand",
+      "estimated_monthly_income": "₹18,000 - ₹32,000 / month"
+    }
+  },
+  {
+    "id": "AMH/Q1001",
+    "sector": "Apparel, Made-Ups & Home Furnishing",
+    "trade_title": "Hand Embroiderer & Zari Worker",
+    "trade_title_hi": "कढ़ाई एवं ज़री शिल्पकार (हस्तशिल्प)",
+    "trade_title_gu": "ભરતકામ અને ઝરી કારીગર (હાથ ભરત)",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 240,
+    "mobility_required": "Low / Sedentary (Home-based SHG friendly)",
+    "core_skills": [
+      "tracing design on fabric",
+      "kutch embroidery and aari work stitches",
+      "zari and sequin needlework",
+      "mirror work fixing",
+      "thread tension and finish"
+    ],
+    "transferable_skills": [
+      "traditional craft heritage",
+      "hand needlework",
+      "artistic eye",
+      "color sense"
+    ],
+    "keywords": [
+      "embroidery", "kutch work", "aari work", "zari", "handicraft", "mirror work", "bharatkam",
+      "कढ़ाई", "कच्छी कढ़ाई", "आरी वर्क", "ज़री", "हस्तशिल्प",
+      "ભરતકામ", "કચ્છી ભરત", "આરી વર્ક", "ઝરીકામ", "મોતીકામ"
+    ],
+    "wage_route": {
+      "job_role": "Artisan in Designer Fashion House / Export Unit",
+      "starting_salary_range": "₹13,000 - ₹18,000 / month",
+      "hiring_companies": "FabIndia, Sabyasachi artisan vendors, Garvi Gurjari"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Women Artisan SHG Hand Embroidery Enterprise",
+      "pm_ajay_grant_support": "₹35,000 PM-AJAY GIA artisan grant for wooden embroidery frames & silks",
+      "equipment_needed": "Aari needle sets, wooden adda (embroidery frame), raw silk threads, mirrors",
+      "estimated_monthly_income": "₹18,000 - ₹32,000 / month"
+    }
+  },
+  {
+    "id": "TSC/Q7301",
+    "sector": "Textile & Handloom",
+    "trade_title": "Handloom Weaver & Artisan",
+    "trade_title_hi": "हथकरघा बुनकर एवं शिल्पकार",
+    "trade_title_gu": "હાથવણાટ કારીગર અને વણકર",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 240,
+    "mobility_required": "Low (Home cluster / village shed)",
+    "core_skills": [
+      "yarn warping and sizing",
+      "loom setting and drafting",
+      "shuttle throwing",
+      "traditional border patterning",
+      "fabric quality inspection"
+    ],
+    "transferable_skills": [
+      "traditional weaving heritage",
+      "yarn spinning",
+      "thread handling",
+      "pattern understanding"
+    ],
+    "keywords": [
+      "handloom", "weaver", "weaving", "khadi", "vankar", "bunkar", "loom",
+      "हथकरघा", "बुनकर", "खादी", "बुनाई",
+      "હાથવણાટ", "વણકર", "ખાદી", "સાળ"
+    ],
+    "wage_route": {
+      "job_role": "Master Weaver Assistant in State Handloom Corporation",
+      "starting_salary_range": "₹12,000 - ₹16,000 / month",
+      "hiring_companies": "Khadi Gramodyog, Gujarat State Handloom Corporation (Garvi Gurjari)"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Traditional Handloom Weaving SHG / Micro-Enterprise",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA grant for frame loom + yarn subsidy",
+      "equipment_needed": "Fly shuttle frame loom, warping drum, bobbin winder, raw yarn",
+      "estimated_monthly_income": "₹18,000 - ₹32,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q4101",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Dairy Farmer & Milk Collection Entrepreneur",
+    "trade_title_hi": "डेयरी किसान एवं दुग्ध संग्रह उद्यमी",
+    "trade_title_gu": "ડેરી ફાર્મર અને દૂધ કલેક્શન સાહસિક",
+    "nsqf_level": 4,
+    "min_education": "5th Pass",
+    "training_duration_hours": 220,
+    "mobility_required": "Moderate (Village level)",
+    "core_skills": [
+      "cattle nutrition and green fodder management",
+      "hygienic milking practices",
+      "clean milk fat testing (lactometer)",
+      "basic animal first aid and deworming",
+      "bulk milk chilling procedures"
+    ],
+    "transferable_skills": [
+      "livestock rearing",
+      "cow buffalo handling",
+      "fodder cutting",
+      "dairy cooperative familiarity"
+    ],
+    "keywords": [
+      "dairy", "milk", "cattle", "cow", "buffalo", "pashupalan", "dairy cooperative", "amul", "dudh",
+      "डेयरी", "दूध", "गाय", "भैंस", "पशुपालन", "दुग्ध समिति",
+      "ડેરી", "દૂધ", "ગાય", "ભેંસ", "પશુપાલન", "દૂધ મંડળી", "અમૂલ"
+    ],
+    "wage_route": {
+      "job_role": "Dairy Cooperative Society Assistant / Milk Procurement Supervisor",
+      "starting_salary_range": "₹14,000 - ₹19,000 / month",
+      "hiring_companies": "Amul Cooperative Societies, Mother Dairy, Local Dairy Unions"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Micro Dairy Farm (2-Milch Animal Unit) & Village Milk Collection Point",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA cattle purchase subsidy + NABARD Dairy Scheme",
+      "equipment_needed": "Stainless steel milk cans, electronic fat tester, chaff cutter machine",
+      "estimated_monthly_income": "₹24,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q1201",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Organic Grower & Bio-Fertilizer Producer",
+    "trade_title_hi": "जैविक किसान एवं बायो-खाद उत्पादक",
+    "trade_title_gu": "ઓર્ગેનિક ફાર્મર અને બાયો-ખાતર ઉત્પાદક",
+    "nsqf_level": 4,
+    "min_education": "5th Pass",
+    "training_duration_hours": 200,
+    "mobility_required": "Moderate (Field & village cluster)",
+    "core_skills": [
+      "vermicompost preparation",
+      "jeevamrut and bio-fertilizer making",
+      "organic pest management",
+      "seed treatment",
+      "soil health card reading"
+    ],
+    "transferable_skills": [
+      "farming experience",
+      "cattle dung handling",
+      "crop harvesting",
+      "irrigation handling"
+    ],
+    "keywords": [
+      "organic", "farming", "kheti", "vermicompost", "bio fertilizer", "agriculture", "natural farming",
+      "जैविक खेती", "खाद", "केंचुआ खाद", "फसल", "किसान", "खेती",
+      "ઓર્ગેનિક ખેતી", "દેશી ખાતર", "અળસિયાનું ખાતર", "ખેડૂત", "ખેતી"
+    ],
+    "wage_route": {
+      "job_role": "Field Supervisor at Organic Farm / Agri Input Company",
+      "starting_salary_range": "₹14,000 - ₹20,000 / month",
+      "hiring_companies": "Farmer Producer Companies (FPOs), Organic Mandis"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Commercial Vermicompost & Organic Inputs Micro-Unit",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA grant for vermibeds & earthworm stock",
+      "equipment_needed": "HDPE vermicompost beds, shredder, sieving machine, packaging sealer",
+      "estimated_monthly_income": "₹22,000 - ₹42,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q1002",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Micro Irrigation Technician (Drip & Sprinkler)",
+    "trade_title_hi": "सूक्ष्म सिंचाई तकनीशियन (ड्रिप एवं स्प्रिंकलर)",
+    "trade_title_gu": "માઇક્રો ઇરિગેશન ટેકનિશિયન (ટપક સિંચાઈ)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 240,
+    "mobility_required": "High (Farm to farm visits)",
+    "core_skills": [
+      "drip pipe layout and lateral laying",
+      "venturi fertilizer injector setup",
+      "filter cleaning and pressure checking",
+      "submersible pump connecting",
+      "leakage repair and flushing"
+    ],
+    "transferable_skills": [
+      "pipe cutting and plumbing",
+      "motor pump operation",
+      "farm trenching",
+      "hand tools"
+    ],
+    "keywords": [
+      "drip", "irrigation", "sprinkler", "drip irrigation", "water pipe", "sinchai",
+      "ड्रिप सिंचाई", "फव्वारा", "सिंचाई", "पाइप", "पानी की मोटर",
+      "ટપક સિંચાઈ", "ફુવારા", "સિંચાઈ", "પાઇપલાઇન"
+    ],
+    "wage_route": {
+      "job_role": "Drip Installation Field Operator",
+      "starting_salary_range": "₹15,000 - ₹21,000 / month",
+      "hiring_companies": "Jain Irrigation, Netafim, Gujarat Green Revolution Company (GGRC)"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Farm Irrigation Installation & Maintenance Service Center",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA toolkit and transport grant",
+      "equipment_needed": "Pipe welding tool, punch pliers, pressure gauges, pipe wrenches",
+      "estimated_monthly_income": "₹22,000 - ₹40,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q0801",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Mushroom Grower & Spawn Producer",
+    "trade_title_hi": "मशरूम उत्पादक एवं स्पॉन निर्माता",
+    "trade_title_gu": "મશરૂમ ઉત્પાદક અને સ્પૉન નિર્માતા",
+    "nsqf_level": 4,
+    "min_education": "5th Pass",
+    "training_duration_hours": 200,
+    "mobility_required": "Low / Sedentary (Indoor dark room setup - Great for Women & PwD)",
+    "core_skills": [
+      "straw sterilization and substrate preparation",
+      "spawn inoculation in polybags",
+      "indoor humidity and temperature control (spraying)",
+      "harvesting oyster and button mushrooms",
+      "drying, packaging, and cold preservation"
+    ],
+    "transferable_skills": [
+      "indoor horticulture",
+      "cleanliness monitoring",
+      "patience and record keeping"
+    ],
+    "keywords": [
+      "mushroom", "oyster mushroom", "spawn", "indoor farming", "khumbh",
+      "मशरूम", "कुंभ", "इनडोर खेती", "मशरूम की खेती",
+      "મશરૂમ", "મશરૂમની ખેતી"
+    ],
+    "wage_route": {
+      "job_role": "Mushroom Farm Supervisor / Agro Unit Technician",
+      "starting_salary_range": "₹14,000 - ₹19,000 / month",
+      "hiring_companies": "Commercial mushroom farms, Krishi Vigyan Kendra units"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Home-Based Commercial Mushroom Production Unit",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA grant for humidification unit & mushroom racks",
+      "equipment_needed": "Bamboo/steel growing racks, fogger/humidifier, digital thermo-hygrometer, autoclave",
+      "estimated_monthly_income": "₹22,000 - ₹40,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q4301",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Goat & Sheep Rearing Entrepreneur",
+    "trade_title_hi": "बकरी एवं भेड़ पालन उद्यमी",
+    "trade_title_gu": "બકરા અને ઘેટા પાલન સાહસિક",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "Moderate (Grazing & shelter management)",
+    "core_skills": [
+      "stall-fed goat breed selection (Sirohi, Jamnapari)",
+      "shed construction and ventilation",
+      "vaccination schedule (ET, PPR)",
+      "kid nutrition and weaning",
+      "market weight sale management"
+    ],
+    "transferable_skills": [
+      "livestock handling",
+      "grazing",
+      "animal feeding"
+    ],
+    "keywords": [
+      "goat", "bakri", "sheep", "goat farming", "animal husbandry",
+      "बकरी पालन", "भेड़ पालन", "बकरा",
+      "બકરા પાલન", "ઘેટાં પાલન", "પશુપાલન"
+    ],
+    "wage_route": {
+      "job_role": "Breeding Farm Livestock Caretaker",
+      "starting_salary_range": "₹12,000 - ₹16,000 / month",
+      "hiring_companies": "Government livestock farms, commercial breeding units"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Modern Stall-Fed Goat Rearing Unit (10+1 Unit)",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA capital subsidy for livestock purchase",
+      "equipment_needed": "Elevated wooden slatted floor, feeder troughs, weighing scale, vaccine cooler",
+      "estimated_monthly_income": "₹20,000 - ₹38,000 / month"
+    }
+  },
+  {
+    "id": "ASC/Q1411",
+    "sector": "Automotive",
+    "trade_title": "Two Wheeler Service Technician",
+    "trade_title_hi": "दोपहिया वाहन सर्विस तकनीशियन (बाइक मैकेनिक)",
+    "trade_title_gu": "ટૂ વ્હીલર સર્વિસ મિકેનિક (બાઇક રિપેરિંગ)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 350,
+    "mobility_required": "Moderate (Garage / workshop)",
+    "core_skills": [
+      "carburetor and fuel injector cleaning",
+      "engine oil change and spark plug replacement",
+      "drum and disc brake servicing",
+      "clutch plate overhaul",
+      "battery charging and electrical troubleshooting",
+      "tyre puncture repair and wheel balancing"
+    ],
+    "transferable_skills": [
+      "spanner and socket tool usage",
+      "greasing and lubrication",
+      "cycle repair",
+      "mechanical aptitude"
+    ],
+    "keywords": [
+      "bike", "motorcycle", "scooter", "mechanic", "garage", "two wheeler", "bike repair", "puncture", "engine",
+      "बाइक", "मोटरसाइकिल", "गैरेज", "मैकेनिक", "दोपहिया", "इंजन", "पंचर",
+      "બાઇક", "મોટરસાયકલ", "મિકેનિક", "ગેરેજ", "પંચર", "એન્જિન"
+    ],
+    "wage_route": {
+      "job_role": "Authorized Dealership Mechanic (Hero, Honda, Bajaj, TVS)",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "Authorized Two-Wheeler Service Centers, Multi-brand Garages"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Village / Highway Two-Wheeler Service & Puncture Garage",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA grant for air compressor and hydraulic ramp",
+      "equipment_needed": "Air compressor, pneumatic impact wrench, hydraulic bike lift, battery charger",
+      "estimated_monthly_income": "₹26,000 - ₹52,000 / month"
+    }
+  },
+  {
+    "id": "ASC/Q1402",
+    "sector": "Automotive",
+    "trade_title": "Electric Vehicle (EV) Two & Three Wheeler Technician",
+    "trade_title_hi": "इलेक्ट्रिक वाहन (EV) तकनीशियन (ई-रिक्शा व ई-बाइक)",
+    "trade_title_gu": "ઇલેક્ટ્રિક વ્હીકલ (EV) ટેકનિશિયન (ઇ-રિક્ષા અને ઇ-બાઇક)",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "Moderate (EV Workshop)",
+    "core_skills": [
+      "lithium-ion battery pack diagnosis and bms testing",
+      "bldc hub and mid-drive motor testing",
+      "motor controller throttle diagnosis",
+      "regenerative braking system maintenance",
+      "ev charging port and wiring harness inspection"
+    ],
+    "transferable_skills": [
+      "basic electrical work",
+      "multimeter usage",
+      "two wheeler mechanics",
+      "hand tools"
+    ],
+    "keywords": [
+      "ev", "electric vehicle", "e-rickshaw", "e-bike", "battery", "lithium", "bldc motor",
+      "इलेक्ट्रिक वाहन", "ई-रिक्शा", "ईवी", "बैटरी", "लिथियम",
+      "ઇલેક્ટ્રિક વાહન", "ઇ-રિક્ષા", "ઇવી", "બેટરી"
+    ],
+    "wage_route": {
+      "job_role": "EV Service Station Technician (Ola Electric, Ather, Bajaj Chetak)",
+      "starting_salary_range": "₹17,000 - ₹26,000 / month",
+      "hiring_companies": "Ola Electric, Ather Energy, Mahindra Electric, E-Rickshaw dealers"
+    },
+    "self_employment_route": {
+      "enterprise_name": "E-Rickshaw & EV Two-Wheeler Battery & Controller Repair Clinic",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA diagnostic tool grant",
+      "equipment_needed": "Lithium battery cell tester, BLDC motor tester, spot welder, digital scope",
+      "estimated_monthly_income": "₹30,000 - ₹60,000 / month"
+    }
+  },
+  {
+    "id": "ASC/Q9702",
+    "sector": "Logistics & Transportation",
+    "trade_title": "Commercial Vehicle Driver (Light & Heavy)",
+    "trade_title_hi": "व्यावसायिक वाहन चालक (कमर्शियल ड्राइवर)",
+    "trade_title_gu": "કોમર્શિયલ વ્હીકલ ડ્રાઇવર (વાહન ચાલક)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "High (Road travel)",
+    "core_skills": [
+      "defensive driving techniques",
+      "traffic regulations and sign understanding",
+      "vehicle pre-trip inspection (tyre, oil, water)",
+      "GPS navigation and route planning",
+      "cargo securing and emergency roadside repair"
+    ],
+    "transferable_skills": [
+      "tractor or auto driving experience",
+      "road sense",
+      "basic mechanical checks"
+    ],
+    "keywords": [
+      "driver", "driving", "commercial driver", "truck driver", "van driver", "auto driver", "transport", "license",
+      "ड्राइवर", "गाड़ी चलाना", "ड्राइविंग", "कमर्शियल वाहन", "ट्रक", "पिकअप",
+      "ડ્રાઇવર", "ડ્રાઇવિંગ", "વાહન ચલાવવું", "ટ્રક", "ટેમ્પો"
+    ],
+    "wage_route": {
+      "job_role": "Commercial Fleet Driver / Delivery Van Captain",
+      "starting_salary_range": "₹16,000 - ₹26,000 / month",
+      "hiring_companies": "State Road Transport (GSRTC), Logistics fleets, E-Commerce transport"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Rural Passenger / Goods Auto / Pickup Van Transport Service",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA margin money grant for commercial EV/vehicle loan",
+      "equipment_needed": "Commercial driving license badge, vehicle insurance, GPS tracker",
+      "estimated_monthly_income": "₹26,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "PSC/Q0104",
+    "sector": "Plumbing & Sanitary",
+    "trade_title": "Plumber General",
+    "trade_title_hi": "प्लंबर जनरल (नलसाज एवं पाइप कारीगर)",
+    "trade_title_gu": "પ્લમ્બર જનરલ (નળ ફિટિંગ)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 360,
+    "mobility_required": "Moderate (Local on-site visits)",
+    "core_skills": [
+      "cpvc and upvc pipe jointing and solvent welding",
+      "sanitary ware installation (washbasin, toilet, taps)",
+      "water tank piping and float valve fixing",
+      "pipeline leakage detection",
+      "water motor pump connection"
+    ],
+    "transferable_skills": [
+      "pipe threading",
+      "wrench and plier usage",
+      "drilling and wall channeling",
+      "manual dexterity"
+    ],
+    "keywords": [
+      "plumber", "plumbing", "pipe", "sanitary", "water fitting", "tap", "leakage", "tank", "water motor",
+      "प्लंबर", "नल", "पाइप", "पानी का पाइप", "टोंटी", "फिटिंग",
+      "પ્લમ્બર", "નળ", "પાઇપ", "પાણીનું ફિટિંગ", "ટાંકી"
+    ],
+    "wage_route": {
+      "job_role": "Facility Plumber / Residential Maintenance Staff",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "Construction firms, commercial malls, hotels, facility management firms"
+    },
+    "self_employment_route": {
+      "enterprise_name": "On-Demand Sanitary & Plumbing Service Business",
+      "pm_ajay_grant_support": "₹40,000 PM-AJAY GIA plumber toolkit grant",
+      "equipment_needed": "Pipe cutter, die set, pipe wrench kit, rotary hammer drill",
+      "estimated_monthly_income": "₹24,000 - ₹44,000 / month"
+    }
+  },
+  {
+    "id": "CON/Q0101",
+    "sector": "Construction",
+    "trade_title": "Mason General",
+    "trade_title_hi": "राजमिस्त्री (मेसन जनरल)",
+    "trade_title_gu": "કડિયો (મેસન જનરલ - મકાન ચણતર)",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 350,
+    "mobility_required": "High (Construction sites)",
+    "core_skills": [
+      "brick laying and mortar ratio mixing",
+      "plastering walls and ceilings",
+      "tile laying and grouting",
+      "spirit level and plumb bob alignment",
+      "concrete casting"
+    ],
+    "transferable_skills": [
+      "construction labor",
+      "trowel usage",
+      "sand cement mixing",
+      "physical endurance"
+    ],
+    "keywords": [
+      "mason", "construction", "brick", "cement", "plaster", "builder", "mistri", "kadiya", "chantaar",
+      "राजमिस्त्री", "मिस्त्री", "चिनाई", "मकान", "सीमेंट", "प्लास्टर", "ईंट",
+      "કડિયો", "મકાન ચણતર", "સિમેન્ટ", "પ્લાસ્ટર", "ઈંટ"
+    ],
+    "wage_route": {
+      "job_role": "Skilled Site Mason / Finishing Mason",
+      "starting_salary_range": "₹17,000 - ₹26,000 / month (or ₹750 - ₹950/day)",
+      "hiring_companies": "L&T Construction, Shapoorji Pallonji, Local building contractors"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Petty Civil Contractor / Masonry Contracting Gang",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA tool kit & mixer grant",
+      "equipment_needed": "Portable concrete mixer, vibration needle, scaffolding props, laser level",
+      "estimated_monthly_income": "₹32,000 - ₹60,000 / month"
+    }
+  },
+  {
+    "id": "CON/Q0201",
+    "sector": "Construction",
+    "trade_title": "Bar Bender & Steel Fixer",
+    "trade_title_hi": "बार बेंडर एवं स्टील फिक्सर (सरिया कारीगर)",
+    "trade_title_gu": "બાર બેન્ડર અને સ્ટીલ ફિક્સર (સળિયા કારીગર)",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 300,
+    "mobility_required": "High (Site work)",
+    "core_skills": [
+      "rebar cutting and bending according to bar schedule",
+      "binding wire tying with hook",
+      "column and beam reinforcement cage fabrication",
+      "slab reinforcement layout",
+      "blueprint reading for rebar"
+    ],
+    "transferable_skills": [
+      "metal bending",
+      "measuring tape reading",
+      "heavy steel lifting",
+      "hand tool usage"
+    ],
+    "keywords": [
+      "bar bender", "rebar", "steel fixer", "saria", "reinforcement", "centering",
+      "सरिया", "बार बेंडर", "लोहा", "सेंटरिंग",
+      "સળિયા", "બાર બેન્ડર", "સ્ટીલ ફિક્સર"
+    ],
+    "wage_route": {
+      "job_role": "Skilled Bar Bender on Bridge/Metro/High-rise Project",
+      "starting_salary_range": "₹17,000 - ₹25,000 / month",
+      "hiring_companies": "Metro rail contractors, Highway projects, L&T"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Residential Rebar Bending & Centering Subcontractor",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA grant for electrical rebar cutter and bender",
+      "equipment_needed": "Electric rebar cutter, bending table, binding wire hooks",
+      "estimated_monthly_income": "₹28,000 - ₹50,000 / month"
+    }
+  },
+  {
+    "id": "CON/Q0601",
+    "sector": "Construction",
+    "trade_title": "Construction Painter & Whitewasher",
+    "trade_title_hi": "पेंटर एवं सफेदी कारीगर (भवन रंगाई)",
+    "trade_title_gu": "કલરકામ અને વાઇટવોશ કારીગર",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "Moderate (Residential / commercial sites)",
+    "core_skills": [
+      "wall surface putty preparation and sanding",
+      "primer and distemper application",
+      "emulsion and weather-coat exterior painting",
+      "paint roller and spray gun operation",
+      "color shade matching and texture finishes"
+    ],
+    "transferable_skills": [
+      "brush handling",
+      "ladder climbing",
+      "scaffolding safety",
+      "physical agility"
+    ],
+    "keywords": [
+      "painter", "whitewash", "color work", "putty", "distemper", "paint", "texture",
+      "पेंटर", "पुट्टी", "सफेदी", "रंगाई", "कलर",
+      "કલરકામ", "પેઇન્ટર", "ચૂનો", "પુટ્ટી", "કલર"
+    ],
+    "wage_route": {
+      "job_role": "Master Painter in Painting Contracting Company",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "Asian Paints contractors, Berger Express, Real estate firms"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Residential & Commercial Painting Contract Crew",
+      "pm_ajay_grant_support": "₹40,000 PM-AJAY GIA spray painter grant",
+      "equipment_needed": "Airless paint sprayer, electric sander, aluminum scaffolding ladders",
+      "estimated_monthly_income": "₹25,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "HSS/Q5101",
+    "sector": "Healthcare",
+    "trade_title": "General Duty Assistant (GDA / Nursing Aide)",
+    "trade_title_hi": "जनरल ड्यूटी असिस्टेंट (नर्सिंग सहायक)",
+    "trade_title_gu": "જનરલ ડ્યુટી આસિસ્ટન્ટ (નર્સિંગ સહાયક)",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 400,
+    "mobility_required": "Moderate (Hospital indoor shift work)",
+    "core_skills": [
+      "patient vitals recording (BP, Pulse, SpO2, Temp)",
+      "patient hygiene and bedmaking",
+      "mobility assistance and wheelchair handling",
+      "infection control and sanitization",
+      "first aid and emergency response"
+    ],
+    "transferable_skills": [
+      "caregiving",
+      "elderly care",
+      "cleanliness maintenance",
+      "empathy and communication"
+    ],
+    "keywords": [
+      "gda", "nursing", "hospital", "patient care", "healthcare", "ward boy", "clinic", "doctor assistant",
+      "नर्सिंग", "अस्पताल", "मरीज की देखभाल", "वार्ड बॉय", "स्वास्थ्य सहायक",
+      "નર્સિંગ", "હોસ્પિટલ", "દર્દી સહાયક", "વોર્ડ બોય"
+    ],
+    "wage_route": {
+      "job_role": "Hospital Patient Care Assistant / Ward Boy / Nursing Attendant",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "District Civil Hospitals, Private Hospitals, Nursing Homes"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Home Elderly Care & Patient Attendant Agency",
+      "pm_ajay_grant_support": "₹35,000 PM-AJAY GIA medical kit grant",
+      "equipment_needed": "Digital BP monitor, pulse oximeter, glucometer, wheelchair, basic dressing kit",
+      "estimated_monthly_income": "₹20,000 - ₹35,000 / month"
+    }
+  },
+  {
+    "id": "HSS/Q5102",
+    "sector": "Healthcare",
+    "trade_title": "Home Health Aide & Geriatric Caregiver",
+    "trade_title_hi": "होम हेल्थ एड (घरेलू स्वास्थ्य एवं बुजुर्ग देखभाल सहायक)",
+    "trade_title_gu": "હોમ હેલ્થ એઇડ (ઘરગથ્થુ વૃદ્ધ સંભાળ સહાયક)",
+    "nsqf_level": 3,
+    "min_education": "8th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "Moderate (Assigned home visits)",
+    "core_skills": [
+      "daily living assistance (bathing, feeding)",
+      "medication timing reminders",
+      "vital signs monitoring",
+      "diabetic diet preparation",
+      "post-operative care basics"
+    ],
+    "transferable_skills": [
+      "family elder care",
+      "cooking and nutrition",
+      "domestic hygiene"
+    ],
+    "keywords": [
+      "home care", "elderly care", "caregiver", "home attendant", "patient helper",
+      "बुजुर्ग देखभाल", "केयरगिवर", "मरीज की सेवा",
+      "વૃદ્ધ સંભાળ", "કેરગીવર", "દર્દી સેવા"
+    ],
+    "wage_route": {
+      "job_role": "Home Caregiver / Geriatric Attendant",
+      "starting_salary_range": "₹14,000 - ₹20,000 / month",
+      "hiring_companies": "Portea Medical, Care24, Local Home Healthcare Agencies"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Independent Home Health Caregiver Provider",
+      "pm_ajay_grant_support": "₹25,000 PM-AJAY GIA starter kit grant",
+      "equipment_needed": "First aid kit, patient thermometer, pressure monitor, uniform",
+      "estimated_monthly_income": "₹18,000 - ₹30,000 / month"
+    }
+  },
+  {
+    "id": "BWS/Q0102",
+    "sector": "Beauty & Wellness",
+    "trade_title": "Assistant Beauty Therapist & Makeup Artist",
+    "trade_title_hi": "ब्यूटी थेरेपिस्ट एवं मेकअप आर्टिस्ट (पार्लर संचालिका)",
+    "trade_title_gu": "બ્યુટી થેરાપિસ્ટ અને મેકઅપ આર્ટિસ્ટ (બ્યુટી પાર્લર)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "Low / Sedentary (Salon / home-based - Great for Women)",
+    "core_skills": [
+      "skincare and facial treatments",
+      "eyebrow threading and waxing",
+      "hair cut, coloring and styling",
+      "manicure and pedicure hygiene",
+      "bridal makeup and saree draping"
+    ],
+    "transferable_skills": [
+      "personal grooming",
+      "cosmetics understanding",
+      "customer communication",
+      "hand steadiness"
+    ],
+    "keywords": [
+      "beauty", "parlour", "salon", "makeup", "threading", "facial", "hair styling", "bridal", "beauty parlour", "mehndi",
+      "ब्यूटी पार्लर", "मेकअप", "फेशियल", "थ्रेडिंग", "हेयर कटिंग", "सैलून", "मेंहदी",
+      "બ્યુટી પાર્લર", "મેકઅપ", "સલૂન", "ફેસિયલ", "વાળ કટિંગ", "મહેંદી"
+    ],
+    "wage_route": {
+      "job_role": "Salon Stylist in Branded Beauty Chain",
+      "starting_salary_range": "₹14,000 - ₹22,000 / month + tips",
+      "hiring_companies": "Lakme Salon, Naturals, Jawed Habib, Local beauty parlours"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Village / Home-Based Women Beauty Parlour & Bridal Care",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA grant for parlour equipment & cosmetic stock",
+      "equipment_needed": "Salon facial chair, hair steamer, wax heater, sterilizer, makeup kit",
+      "estimated_monthly_income": "₹22,000 - ₹45,000 / month"
+    }
+  },
+  {
+    "id": "FIC/Q5005",
+    "sector": "Food Processing",
+    "trade_title": "Baking Technician & Bakery Entrepreneur",
+    "trade_title_hi": "बेकिंग तकनीशियन एवं बेकरी उद्यमी (पाव, बिस्कुट, केक)",
+    "trade_title_gu": "બેકિંગ ટેકનિશિયન અને બેકરી સાહસિક (બ્રેડ, પાંઉ, બિસ્કિટ)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "Low (Bakery unit / kitchen)",
+    "core_skills": [
+      "dough kneading and proofing",
+      "oven temperature and baking timing control",
+      "bread, pav, and biscuit making",
+      "cake sponge preparation and icing",
+      "food safety and hygiene standards (FSSAI basics)"
+    ],
+    "transferable_skills": [
+      "cooking experience",
+      "flour mixing",
+      "domestic baking",
+      "kitchen cleanliness"
+    ],
+    "keywords": [
+      "bakery", "baking", "bread", "pav", "biscuit", "cake", "oven", "confectionery", "food",
+      "बेकरी", "ब्रेड", "पाव", "बिस्कुट", "केक", "ओवन", "खाना",
+      "બેકરી", "બ્રેડ", "પાંઉ", "બિસ્કિટ", "કેક", "ઓવન"
+    ],
+    "wage_route": {
+      "job_role": "Assistant Baker in Commercial Bakery or Supermarket",
+      "starting_salary_range": "₹14,000 - ₹20,000 / month",
+      "hiring_companies": "Monginis, Britannia local bakeries, Hotel bakeries"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Village Bakery / Fresh Pav & Biscuit Manufacturing Unit",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA grant for electric deck oven + FSSAI registration",
+      "equipment_needed": "Electric deck oven, spiral dough mixer, baking trays, weighing scale",
+      "estimated_monthly_income": "₹25,000 - ₹50,000 / month"
+    }
+  },
+  {
+    "id": "FIC/Q0103",
+    "sector": "Food Processing",
+    "trade_title": "Pickle, Chutney & Jam Processing Technician",
+    "trade_title_hi": "अचार, चटनी एवं मुरब्बा प्रसंस्करण तकनीशियन (महिला SHG)",
+    "trade_title_gu": "અથાણાં, ચટણી અને મુરબ્બો પ્રોસેસિંગ (મહિલા SHG)",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "Low (Home cluster - Highly suitable for SC Women SHGs)",
+    "core_skills": [
+      "fruit and vegetable cleaning, sorting, and cutting",
+      "brining, salt ratio, and spice blending",
+      "oil layering and preservation techniques",
+      "airtight jar packaging and labeling",
+      "shelf-life monitoring and hygiene"
+    ],
+    "transferable_skills": [
+      "traditional home recipe knowledge",
+      "vegetable cutting",
+      "spice mixing",
+      "sun drying"
+    ],
+    "keywords": [
+      "pickle", "achar", "chutney", "jam", "murabba", "food processing", "spice mixing", "masala", "shg",
+      "अचार", "चटनी", "मुरब्बा", "मसाला", "खाद्य प्रसंस्करण", "महिला समूह",
+      "અથાણું", "ચટણી", "મુરબ્બો", "મસાલા", "મહિલા મંડળ"
+    ],
+    "wage_route": {
+      "job_role": "Production Line Worker in Food Processing Plant",
+      "starting_salary_range": "₹12,000 - ₹16,000 / month",
+      "hiring_companies": "Priya Pickles, Mother's Recipe, Regional Agro-processing units"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Micro-Enterprise: Artisanal Pickles, Chutneys & Spices Brand",
+      "pm_ajay_grant_support": "₹40,000 PM-AJAY GIA grant for stainless steel processing vessels and sealer",
+      "equipment_needed": "Commercial vegetable cutter, stainless steel storage drums, impulse bag sealer",
+      "estimated_monthly_income": "₹20,000 - ₹38,000 / month"
+    }
+  },
+  {
+    "id": "THC/Q0301",
+    "sector": "Tourism & Hospitality",
+    "trade_title": "Food & Beverage Service Steward (Hotel / Restaurant)",
+    "trade_title_hi": "खाद्य एवं पेय सेवा स्टीवर्ड (हॉस्पिटैलिटी / कैटरिंग)",
+    "trade_title_gu": "ફૂડ એન્ડ બેવરેજ સર્વિસ સ્ટીવર્ડ (હોટેલ / કેટરિંગ)",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 300,
+    "mobility_required": "High (Standing & walking in dining halls)",
+    "core_skills": [
+      "table layout and cutlery setting",
+      "order taking and POS billing software usage",
+      "hygienic food carrying and serving etiquette",
+      "customer communication in Hindi and basic English",
+      "food hygiene and HACCP guidelines"
+    ],
+    "transferable_skills": [
+      "polite communication",
+      "multitasking",
+      "cleanliness",
+      "hospitality spirit"
+    ],
+    "keywords": [
+      "hotel", "restaurant", "waiter", "steward", "catering", "hospitality", "food service",
+      "होटल", "रेस्टोरेंट", "वेटर", "स्टीवर्ड", "कैटरिंग", "खाना परोसना",
+      "હોટેલ", "રેસ્ટોરન્ટ", "વેઈટર", "કેટરિંગ"
+    ],
+    "wage_route": {
+      "job_role": "Restaurant Captain / Banquet Steward / Cafe Associate",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month + tips & duty meals",
+      "hiring_companies": "Taj Hotels, Lemon Tree, Barbeque Nation, Domino's, Local Banquet Halls"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Rural Event Catering & Fast Food Food-Van",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA grant for commercial cooking vessels and buffet counters",
+      "equipment_needed": "Stainless steel chafing dishes, gas burners, cutlery set, uniforms",
+      "estimated_monthly_income": "₹26,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "LSC/Q0101",
+    "sector": "Logistics & Supply Chain",
+    "trade_title": "Warehouse Associate & Inventory Picker",
+    "trade_title_hi": "गोदाम सहायक एवं पिकर (वेयरहाउस एसोसिएट)",
+    "trade_title_gu": "વેરહાઉસ એસોસિયેટ અને પીકર (ગોડાઉન સહાયક)",
+    "nsqf_level": 3,
+    "min_education": "8th Pass",
+    "training_duration_hours": 200,
+    "mobility_required": "High (Warehouse floor walking & lifting)",
+    "core_skills": [
+      "barcode scanner operation",
+      "item picking and bin location finding",
+      "carton packing and bubble wrapping",
+      "pallet truck (hydraulic jack) handling",
+      "dispatch labeling and manifest checking"
+    ],
+    "transferable_skills": [
+      "item counting",
+      "loading and stacking",
+      "cardboard box packing",
+      "basic smartphone app usage"
+    ],
+    "keywords": [
+      "warehouse", "godown", "packing", "picker", "logistics", "amazon", "flipkart", "delivery", "e-commerce",
+      "वेयरहाउस", "गोदाम", "पैकिंग", "सामान उठाना", "लॉजिस्टिक्स",
+      "વેરહાઉસ", "ગોડાઉન", "પેકિંગ", "ડિલિવરી"
+    ],
+    "wage_route": {
+      "job_role": "Fulfillment Center Associate (Amazon, Flipkart, Delhivery)",
+      "starting_salary_range": "₹15,000 - ₹21,000 / month",
+      "hiring_companies": "Amazon India, Flipkart, Delhivery, Shadowfax, Blue Dart"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Block-Level Last-Mile Delivery & Packaging Franchise",
+      "pm_ajay_grant_support": "₹35,000 PM-AJAY GIA grant for delivery vehicle rack & thermal printer",
+      "equipment_needed": "Delivery bag, thermal printer, smartphone, packaging materials",
+      "estimated_monthly_income": "₹20,000 - ₹35,000 / month"
+    }
+  },
+  {
+    "id": "SSC/Q2212",
+    "sector": "IT-ITeS & Digital Services",
+    "trade_title": "Domestic Data Entry Operator & CSC Operator",
+    "trade_title_hi": "डाटा एंट्री ऑपरेटर एवं सीएससी संचालक (डिजिटल सेवा)",
+    "trade_title_gu": "ડેટા એન્ટ્રી ઓપરેટર અને સીએસસી સંચાલક (ડિજિટલ સેવા)",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 400,
+    "mobility_required": "Low / Sedentary (Computer desk work - Highly PwD Friendly)",
+    "core_skills": [
+      "computer typing speed (30+ wpm Hindi/English/Gujarati)",
+      "ms office (word, excel data entry, formatting)",
+      "government portal online form filling (PM-AJAY, Aadhaar, PAN)",
+      "document scanning and pdf preparation",
+      "basic internet research and email communication"
+    ],
+    "transferable_skills": [
+      "basic computer literacy",
+      "keyboard familiarity",
+      "detail-oriented",
+      "reading and writing"
+    ],
+    "keywords": [
+      "computer", "data entry", "typing", "csc", "excel", "office", "clerk", "digital seva", "internet",
+      "कंप्यूटर", "डाटा एंट्री", "टाइपिंग", "सीएससी", "एक्सेल", "ऑनलाइन फॉर्म",
+      "કમ્પ્યુટર", "ડેટા એન્ટ્રી", "ટાઇપિંગ", "સીએસસી", "ઓનલાઇન ફોર્મ"
+    ],
+    "wage_route": {
+      "job_role": "Back Office Data Entry Clerk / District e-Governance Assistant",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "Government e-Seva centers, BPO/KPO firms, Corporate Back Offices"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Gram Panchayat Digital Seva Kiosk / Cyber Cafe",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA capital subsidy for desktop computer & multifunction printer",
+      "equipment_needed": "Desktop PC, multi-function scanner-printer, biometric fingerprint scanner, UPS",
+      "estimated_monthly_income": "₹24,000 - ₹45,000 / month"
+    }
+  },
+  {
+    "id": "HCS/Q8702",
+    "sector": "Handicrafts & Carpet",
+    "trade_title": "Bamboo & Cane Craft Artisan",
+    "trade_title_hi": "बांस एवं बेंत शिल्प कारीगर",
+    "trade_title_gu": "વાંસ અને નેતર હસ્તકળા કારીગર",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 240,
+    "mobility_required": "Low (Workshop / home cluster)",
+    "core_skills": [
+      "bamboo pole splitting and sliver making",
+      "chemical seasoning and anti-fungal treatment",
+      "basket, mat, and furniture weaving",
+      "bamboo jointing and pinning",
+      "varnishing and natural lacquering"
+    ],
+    "transferable_skills": [
+      "traditional basket weaving",
+      "knife handling",
+      "wood carving",
+      "natural fiber work"
+    ],
+    "keywords": [
+      "bamboo", "cane", "basket", "handicraft", "tokri", "bans",
+      "बांस", "बेंत", "टोकरी", "हस्तशिल्प",
+      "વાંસ", "નેતર", "ટોપલી", "હસ્તકળા"
+    ],
+    "wage_route": {
+      "job_role": "Artisan in Handicrafts Development Corporation",
+      "starting_salary_range": "₹13,000 - ₹17,000 / month",
+      "hiring_companies": "Tribal / SC Co-operatives, Craft export enterprises, FabIndia suppliers"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Eco-Friendly Bamboo Home Decor & Utility Enterprise",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA toolkit and raw material grant",
+      "equipment_needed": "Bamboo slivering machine, electric drill, wood lathe, carving chisels",
+      "estimated_monthly_income": "₹18,000 - ₹35,000 / month"
+    }
+  },
+  {
+    "id": "LSS/Q2301",
+    "sector": "Leather & Footwear",
+    "trade_title": "Leather Goods & Footwear Repair Technician",
+    "trade_title_hi": "चर्म शिल्प एवं जूता मरम्मत तकनीशियन",
+    "trade_title_gu": "ચર્મ કારીગર અને ફૂટવેર રિપેરિંગ (મોચી કામ)",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 250,
+    "mobility_required": "Low (Workshop / kiosk)",
+    "core_skills": [
+      "leather skiving, cutting, and clicking",
+      "stitching leather with heavy duty machine",
+      "sole pasting and vulcanizing",
+      "leather tanning basics and edge burnishing",
+      "footwear finishing and polishing"
+    ],
+    "transferable_skills": [
+      "traditional cobbler skills",
+      "awl and needle hand stitching",
+      "cutting knife handling"
+    ],
+    "keywords": [
+      "leather", "footwear", "shoe repair", "cobbler", "mochi", "bag repair", "chamar",
+      "चर्म शिल्प", "जूता", "जूता मरम्मत", "मोची", "चमड़ा",
+      "ચર્મ કારીગર", "મોચી", "પગરખાં", "ચામડું"
+    ],
+    "wage_route": {
+      "job_role": "Skilled Stitcher in Leather Export Unit",
+      "starting_salary_range": "₹14,000 - ₹19,000 / month",
+      "hiring_companies": "Bata, Relaxo, Kanpur & Agra Leather Clusters"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Modern Footwear Repair & Custom Leather Goods Kiosk",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA equipment grant for footwear sewing machine",
+      "equipment_needed": "Heavy cylinder-arm sewing machine, sole polisher, skiving machine",
+      "estimated_monthly_income": "₹22,000 - ₹38,000 / month"
+    }
+  },
+  {
+    "id": "RAS/Q0104",
+    "sector": "Retail",
+    "trade_title": "Retail Sales Associate & Kirana Micro-Store Entrepreneur",
+    "trade_title_hi": "रिटेल सेल्स एसोसिएट एवं किराना स्टोर संचालक",
+    "trade_title_gu": "રિટેલ સેલ્સ એસોસિયેટ અને કરિયાણા દુકાનદાર",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 280,
+    "mobility_required": "Moderate (Store standing & stock managing)",
+    "core_skills": [
+      "customer engagement and sales closing",
+      "product inventory and shelf display management",
+      "digital upi barcode billing and cash reconciliation",
+      "stock reordering and supplier negotiation",
+      "fssai product labeling and expiry checking"
+    ],
+    "transferable_skills": [
+      "polite communication",
+      "basic arithmetic and calculation",
+      "smartphone usage",
+      "negotiation"
+    ],
+    "keywords": [
+      "retail", "sales", "shop", "kirana", "store", "counter", "billing", "dukan",
+      "दुकान", "किराना", "सेल्स", "रिटेल", "बिक्री", "स्टोर",
+      "દુકાન", "કરિયાણું", "સેલ્સ", "રિટેલ", "વેચાણ"
+    ],
+    "wage_route": {
+      "job_role": "Showroom Sales Associate / Departmental Store Staff",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month + sales incentive",
+      "hiring_companies": "DMart, Reliance Retail, Vishal Mega Mart, V-Mart"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Modern Digitized Village Kirana & General Store",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA inventory grant + POS machine",
+      "equipment_needed": "Barcode billing scanner, electronic weighing scale, display racks, refrigeration unit",
+      "estimated_monthly_income": "₹25,000 - ₹50,000 / month"
+    }
+  },
+  {
+    "id": "MEP/Q0201",
+    "sector": "Plumbing, Electrical & Construction",
+    "trade_title": "Multi-Skill Maintenance Technician (Handyman)",
+    "trade_title_hi": "मल्टी-स्किल मेंटेनेंस तकनीशियन (ऑल-राउंडर मिस्त्री)",
+    "trade_title_gu": "મલ્ટી-સ્કિલ મેન્ટેનન્સ ટેકનિશિયન (ઓલ-રાઉન્ડર મિસ્ત્રી)",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 360,
+    "mobility_required": "Moderate (Local visits)",
+    "core_skills": [
+      "basic domestic electrical repairs",
+      "basic plumbing and tap fixing",
+      "basic carpentry and door lock fitting",
+      "touch-up wall painting and putty filling",
+      "hand tool and power drill handling"
+    ],
+    "transferable_skills": [
+      "practical problem solving",
+      "manual dexterity",
+      "multi-trade curiosity"
+    ],
+    "keywords": [
+      "multi skill", "handyman", "all rounder", "repairman", "maintenance",
+      "ऑल राउंडर", "मरम्मत", "मेंटेनेंस", "मिस्त्री",
+      "ઓલ રાઉન્ડર", "સમારકામ", "મેન્ટેનન્સ"
+    ],
+    "wage_route": {
+      "job_role": "Township / Society Facility Maintenance Executive",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "CBRE, JLL, Facility Management Companies, Gated Townships"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Doorstep Home Maintenance & Repair On-Call Service",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA all-in-one toolkit grant",
+      "equipment_needed": "Comprehensive master toolkit, drill machine, plumbing wrenches, ladder",
+      "estimated_monthly_income": "₹28,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "CSC/Q0204",
+    "sector": "Capital Goods & Fabrication",
+    "trade_title": "Manual Metal Arc Welder / Shielded Metal Arc Welder",
+    "trade_title_hi": "मैन्युअल मेटल आर्क वेल्डर (वेल्डिंग मिस्त्री)",
+    "trade_title_gu": "મેન્યુઅલ મેટલ આર્ક વેલ્ડર (વેલ્ડિંગ કારીગર)",
+    "nsqf_level": 3,
+    "min_education": "8th Pass",
+    "training_duration_hours": 350,
+    "mobility_required": "Moderate (Workshop & fabrication site)",
+    "core_skills": [
+      "arc welding electrode handling",
+      "metal cutting and grinding",
+      "butt and fillet joint welding",
+      "weld defect identification",
+      "gas cylinder and regulator safety",
+      "blueprint and angle measurement"
+    ],
+    "transferable_skills": [
+      "metal fabrication",
+      "angle grinder usage",
+      "heavy hand tool usage",
+      "physical endurance"
+    ],
+    "keywords": [
+      "welder", "welding", "arc welding", "metal", "fabrication", "grinding", "electrode", "iron", "steel",
+      "वेल्डर", "वेल्डिंग", "आर्क वेल्डिंग", "लोहा", "धातु", "फैब्रिकेशन", "ग्राइंडिंग",
+      "વેલ્ડર", "વેલ્ડિંગ", "લોખંડ", "ધાતુ", "ફેબ્રિકેશન"
+    ],
+    "wage_route": {
+      "job_role": "Industrial Fabrication Welder / Structural Steel Fabricator",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "L&T Heavy Engineering, Tata Projects, GIDC Fabrication Units, Jindal Saw"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Rural Iron Fabrication & Grill Works Enterprise",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA welding machine & power toolkit grant",
+      "equipment_needed": "Inverter arc welding set, angle grinder, chop saw, safety face shield, clamps",
+      "estimated_monthly_income": "₹28,000 - ₹55,000 / month"
+    }
+  },
+  {
+    "id": "CSC/Q0115",
+    "sector": "Capital Goods & Automotive Tooling",
+    "trade_title": "CNC Operator / Machining Technician",
+    "trade_title_hi": "सीएनसी मशीन ऑपरेटर एवं टूलिंग तकनीशियन",
+    "trade_title_gu": "સીએનસી મશીન ઓપરેટર અને ટૂલિંગ ટેકનિશિયન",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 400,
+    "mobility_required": "Low (Indoor factory floor, seated / standing)",
+    "core_skills": [
+      "cnc turning machine operation",
+      "vernier caliper and micrometer precision measurement",
+      "g-code and m-code basic program loading",
+      "tool offset setting and insert replacement",
+      "component deburring and quality inspection"
+    ],
+    "transferable_skills": [
+      "numerical precision",
+      "computer literacy",
+      "machine maintenance",
+      "blueprint reading"
+    ],
+    "keywords": [
+      "cnc", "cnc machine", "lathe", "machining", "turning", "milling", "precision", "factory", "operator",
+      "सीएनसी", "लेथ मशीन", "मशीनिंग", "ऑपरेटर", "कारखाना",
+      "સીએનસી", "લેથ મશીન", "ફેક્ટરી", "ઓપરેટર"
+    ],
+    "wage_route": {
+      "job_role": "CNC Machine Operator / Auto Components Machinist",
+      "starting_salary_range": "₹18,000 - ₹26,000 / month",
+      "hiring_companies": "Munjal Auto, Bharat Forge, Subros, Rajkot Auto Engineering Clusters"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Job-Work Precision Component & Lathe Workshop",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA machinery grant + SIDBI cluster loan link",
+      "equipment_needed": "Bench lathe, precision measuring sets, bench grinder, drill press",
+      "estimated_monthly_income": "₹35,000 - ₹65,000 / month"
+    }
+  },
+  {
+    "id": "ELE/Q3101",
+    "sector": "Electronics & Appliances",
+    "trade_title": "Field Technician - Air Conditioner & Refrigerator (RAC)",
+    "trade_title_hi": "एसी एवं रेफ्रिजरेटर मरम्मत तकनीशियन",
+    "trade_title_gu": "એસી અને ફ્રિજ રિપેરિંગ ટેકનિશિયન",
+    "nsqf_level": 4,
+    "min_education": "10th Pass",
+    "training_duration_hours": 360,
+    "mobility_required": "Moderate (Local doorstep service visits)",
+    "core_skills": [
+      "refrigerant gas charging (R32, R410A)",
+      "inverter compressor testing and wiring",
+      "copper tubing flaring, swaging, and brazing",
+      "split ac installation and vacuuming",
+      "thermostat and defrost timer troubleshooting"
+    ],
+    "transferable_skills": [
+      "electrical circuit testing",
+      "multimeter usage",
+      "hand tool usage",
+      "doorstep customer service"
+    ],
+    "keywords": [
+      "ac", "air conditioner", "fridge", "refrigerator", "cooling", "gas charging", "compressor", "rac",
+      "एसी", "एयर कंडीशनर", "फ्रिज", "रेफ्रिजरेटर", "गैस चार्जिंग", "कंप्रेसर",
+      "એસી", "ફ્રિજ", "ઠંડક", "રિપેરિંગ", "કમ્પ્રેસર"
+    ],
+    "wage_route": {
+      "job_role": "HVAC & Refrigerator Authorized Service Technician",
+      "starting_salary_range": "₹17,000 - ₹25,000 / month",
+      "hiring_companies": "Voltas, Daikin, Blue Star, Godrej Appliances, Urban Company"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Doorstep AC & Home Appliances Cooling Care Service",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA HVAC diagnostic & manifold gauge toolkit grant",
+      "equipment_needed": "Vacuum pump, manifold pressure gauge, flaring tool, brazing torch set, clamp meter",
+      "estimated_monthly_income": "₹30,000 - ₹60,000 / month"
+    }
+  },
+  {
+    "id": "ASC/Q9703",
+    "sector": "Automotive & Green Mobility",
+    "trade_title": "Commercial E-Rickshaw & Auto Driver-Cum-Operator",
+    "trade_title_hi": "ई-रिक्शा एवं ऑटो चालक व ऑपरेटर",
+    "trade_title_gu": "ઇ-રિક્ષા અને ઓટો ડ્રાઇવર કમ ઓપરેટર",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "Moderate (Local city & rural transit)",
+    "core_skills": [
+      "e-rickshaw safe driving and traffic rules",
+      "lithium-ion battery charging and maintenance",
+      "brake adjustment and tire puncture repair",
+      "digital upi fare collection and customer handling",
+      "minor motor controller wiring check"
+    ],
+    "transferable_skills": [
+      "road sense",
+      "basic driving",
+      "local area geography knowledge",
+      "cash handling"
+    ],
+    "keywords": [
+      "e rickshaw", "auto", "driver", "rickshaw", "electric vehicle", "driving", "transit", "passenger",
+      "ई रिक्शा", "ऑटो", "ड्राइवर", "रिक्शा", "गाड़ी चलाना",
+      "ઇ રિક્ષા", "ઓટો", "ડ્રાઇવર", "વાહન ચલાવવું"
+    ],
+    "wage_route": {
+      "job_role": "Commercial Fleet Driver / Last-Mile Shuttle Driver",
+      "starting_salary_range": "₹15,000 - ₹22,000 / month",
+      "hiring_companies": "Uber Green, Ola, BluSmart, Metro Station Feeder Operators"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Independent Clean-Energy E-Rickshaw Transit Operator",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA electric vehicle down-payment capital subsidy",
+      "equipment_needed": "Commercial electric rickshaw with lithium battery and smart charger",
+      "estimated_monthly_income": "₹22,000 - ₹38,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q4302",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Broiler & Layer Poultry Farmer",
+    "trade_title_hi": "मुर्गी पालन उद्यमी (ब्रायलर व लेयर पोल्ट्री)",
+    "trade_title_gu": "મરઘા પાલન ઉદ્યોગસાહસિક (પોલ્ટ્રી ફાર્મર)",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 240,
+    "mobility_required": "Low (Home backyard or local farm)",
+    "core_skills": [
+      "chick brooding and temperature regulation",
+      "poultry feed and nutritional formulation",
+      "vaccination and disease biosecurity protocol",
+      "egg grading, packing, and safe storage",
+      "poultry shed hygiene and waste management"
+    ],
+    "transferable_skills": [
+      "animal care",
+      "farm handling",
+      "hygiene maintenance",
+      "direct rural marketing"
+    ],
+    "keywords": [
+      "poultry", "chicken", "eggs", "broiler", "layer", "bird", "farming", "feed", "desi murgi",
+      "मुर्गी पालन", "पोल्ट्री", "अंडा", "मुर्गी फार्म", "देशी मुर्गी",
+      "મરઘા પાલન", "પોલ્ટ્રી", "ઈંડા", "મરઘી ફાર્મ"
+    ],
+    "wage_route": {
+      "job_role": "Commercial Poultry Farm Supervisor",
+      "starting_salary_range": "₹14,000 - ₹20,000 / month",
+      "hiring_companies": "Suguna Foods, Venky's, Godrej Agrovet, Local Poultry Integrators"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Backyard Desi Poultry & Fresh Egg Production Unit",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA poultry shed & feeder equipment grant",
+      "equipment_needed": "Brooder heat lamp, automatic water drinkers, feed troughs, fencing mesh",
+      "estimated_monthly_income": "₹24,000 - ₹45,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q4201",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Commercial Beekeeper & Honey Producer",
+    "trade_title_hi": "व्यावसायिक मधुमक्खी पालक एवं शहद उत्पादक",
+    "trade_title_gu": "મધમાખી પાલન અને મધ ઉત્પાદક",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "Low (Village farm or orchard)",
+    "core_skills": [
+      "apiculture bee box colony inspection",
+      "queen bee rearing and colony multiplication",
+      "honey harvesting and stainless steel extraction",
+      "comb honey and beeswax processing",
+      "seasonal floral migration and pest control"
+    ],
+    "transferable_skills": [
+      "nature and insect observation",
+      "outdoor handwork",
+      "organic food packaging",
+      "cottage processing"
+    ],
+    "keywords": [
+      "beekeeping", "bee", "honey", "apiculture", "wax", "sweet", "nectar", "honeybee",
+      "मधुमक्खी", "शहद", "मधुमक्खी पालन", "बीकीपिंग",
+      "મધમાખી", "મધ", "મધમાખી પાલન"
+    ],
+    "wage_route": {
+      "job_role": "Apiary Manager / Honey Processing Plant Assistant",
+      "starting_salary_range": "₹14,000 - ₹20,000 / month",
+      "hiring_companies": "KVIC Honey Clusters, Dabur Organic Suppliers, Patanjali Food Parks"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Pure Village Forest & Mustard Honey Micro-Enterprise",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA 10-box apiary setup & extractor grant",
+      "equipment_needed": "10 standard Langstroth bee boxes, protective bee veil, smoker, honey extractor",
+      "estimated_monthly_income": "₹20,000 - ₹42,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q0701",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Commercial Floriculture & Greenhouse Nursery Grower",
+    "trade_title_hi": "फूलों की व्यावसायिक खेती एवं नर्सरी उत्पादक",
+    "trade_title_gu": "ફૂલોની ખેતી અને નર્સરી પ્લાન્ટ ઉત્પાદક",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 240,
+    "mobility_required": "Low (Nursery beds / shade-net house)",
+    "core_skills": [
+      "seedling potting and grafting techniques",
+      "marigold, rose, and jasmine commercial cultivation",
+      "drip irrigation and shade-net greenhouse management",
+      "organic root hormone and compost application",
+      "flower harvesting and garland bouquet packaging"
+    ],
+    "transferable_skills": [
+      "gardening",
+      "farming experience",
+      "plant care",
+      "aesthetic flower arrangement"
+    ],
+    "keywords": [
+      "flowers", "floriculture", "nursery", "plants", "marigold", "rose", "garland", "greenhouse", "gardening",
+      "फूल", "नर्सरी", "फ्लोरीकल्चर", "गेंदा", "गुलाब", "बागवानी",
+      "ફૂલ", "નર્સરી", "ગલગોટો", "ગુલાબ", "બાગાયત"
+    ],
+    "wage_route": {
+      "job_role": "Commercial Landscape Nursery Supervisor / Estate Florist",
+      "starting_salary_range": "₹15,000 - ₹21,000 / month",
+      "hiring_companies": "Urban Landscape Contractors, Municipal Gardens, Agri-Tourism Resorts"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Festive Flower Farming & Potted Nursery Enterprise",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA shade-net & mother-plant stock subsidy",
+      "equipment_needed": "Shade-net greenhouse frames, micro-sprinklers, grafting knives, seedling trays",
+      "estimated_monthly_income": "₹25,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "AGR/Q1101",
+    "sector": "Agriculture & Allied",
+    "trade_title": "Tractor Operator & Agricultural Machinery Mechanic",
+    "trade_title_hi": "ट्रैक्टर चालक एवं कृषि यंत्र मैकेनिक",
+    "trade_title_gu": "ટ્રેક્ટર ઓપરેટર અને કૃષિ ઓજાર મિકેનિક",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 320,
+    "mobility_required": "High (Farm fields and custom hiring centers)",
+    "core_skills": [
+      "tractor driving and field plowing operation",
+      "rotavator, cultivator, and seed drill attachment",
+      "diesel engine fuel injection and air filter cleaning",
+      "hydraulic lift arm troubleshooting and fluid top-up",
+      "battery and electrical dynamo check"
+    ],
+    "transferable_skills": [
+      "heavy driving",
+      "spanner and socket tool usage",
+      "diesel machinery handling",
+      "field stamina"
+    ],
+    "keywords": [
+      "tractor", "farm machinery", "rotavator", "diesel", "plowing", "agriculture mechanic", "kheti",
+      "ट्रैक्टर", "कृषि यंत्र", "डीजल इंजन", "जुताई", "मैकेनिक",
+      "ટ્રેક્ટર", "ખેતી ઓજાર", "ડીઝલ એન્જિન", "મિકેનિક"
+    ],
+    "wage_route": {
+      "job_role": "Custom Hiring Center Tractor Operator / Dealership Service Mechanic",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "Mahindra Tractors Dealerships, John Deere, Tafe Dealers, CHCs"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Rural Farm Custom Hiring & Tractor Repair Service",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA implement & hydraulic repair toolkit grant",
+      "equipment_needed": "Heavy hydraulic jack, impact socket set, torque wrench, grease gun, compressor",
+      "estimated_monthly_income": "₹30,000 - ₹60,000 / month"
+    }
+  },
+  {
+    "id": "HCS/Q0401",
+    "sector": "Handicrafts & Traditional Artisan Cluster",
+    "trade_title": "Traditional Terracotta & Ceramic Pottery Artisan",
+    "trade_title_hi": "पारंपरिक टेराकोटा एवं मिट्टी बर्तन शिल्पकार (कुम्हार)",
+    "trade_title_gu": "ટેરાકોટા અને માટીકામ કારીગર (કુંભાર)",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 260,
+    "mobility_required": "Low (Seated home workshop)",
+    "core_skills": [
+      "clay preparation, kneading, and degassing",
+      "motorized potter's wheel shaping and throwing",
+      "earthen pot, diya, and ornamental vase carving",
+      "kiln loading, firing temperature, and baking control",
+      "natural terracotta painting and waterproofing"
+    ],
+    "transferable_skills": [
+      "traditional artisan skills",
+      "hand clay shaping",
+      "artistic painting",
+      "patience and eye-hand coordination"
+    ],
+    "keywords": [
+      "pottery", "clay", "terracotta", "earthen", "matka", "diya", "artisan", "kumhar", "ceramic",
+      "मिट्टी", "बर्तन", "टेराकोटा", "कुम्हार", "मटका", "दीया", "शिल्पकार",
+      "માટીકામ", "કુંભાર", "માટલા", "દીવડા", "ટેરાકોટા"
+    ],
+    "wage_route": {
+      "job_role": "Ceramic Design Studio Artisan / Pottery Production Craftsman",
+      "starting_salary_range": "₹14,000 - ₹20,000 / month",
+      "hiring_companies": "Morbi Ceramic Art Studios, Handicraft Export Houses, Khadi Village Boards"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Modern Terracotta Kitchenware & Decorative Pottery Unit",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA motorized wheel & modern kiln subsidy",
+      "equipment_needed": "Electric variable-speed pottery wheel, clay pug mill, eco-kiln refractory bricks",
+      "estimated_monthly_income": "₹22,000 - ₹45,000 / month"
+    }
+  },
+  {
+    "id": "LSS/Q2101",
+    "sector": "Leather & Footwear",
+    "trade_title": "Footwear Designer & Traditional Leather Goods Maker",
+    "trade_title_hi": "पारंपरिक चमड़ा जूता व उत्पाद निर्माता (चर्मकार)",
+    "trade_title_gu": "પરંપરાગત લેધર ફૂટવેર અને પગરખાં કારીગર (ચર્મકાર)",
+    "nsqf_level": 4,
+    "min_education": "Below 8th",
+    "training_duration_hours": 300,
+    "mobility_required": "Low (Seated workshop)",
+    "core_skills": [
+      "leather hide grading, cutting, and clicking",
+      "upper stitching and skiving machine handling",
+      "sole lasting, gluing, and hot-air curing",
+      "traditional mojari and handcrafted sandal crafting",
+      "leather wallet, belt, and pouch edge finishing"
+    ],
+    "transferable_skills": [
+      "traditional leather craft",
+      "hand cutting",
+      "needle stitching",
+      "hand tool precision"
+    ],
+    "keywords": [
+      "leather", "footwear", "shoes", "chappal", "mojari", "belt", "wallet", "cobbler", "artisan", "charmakar",
+      "चमड़ा", "जूता", "चप्पल", "मोजड़ी", "चर्मकार", "चमड़े का सामान",
+      "ચામડું", "પગરખાં", "ચંપલ", "મોજડી", "ચર્મકાર"
+    ],
+    "wage_route": {
+      "job_role": "Industrial Footwear Sample Maker / Quality Craftsman",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "Bata India, Relaxo, Metro Shoes, Agra & Kanpur Export Clusters"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Handcrafted Leather Footwear & Custom Mojari Studio",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA heavy leather sewing machine & tools grant",
+      "equipment_needed": "Cylinder-bed leather stitching machine, skiving tool, shoe lasts, edge burnisher",
+      "estimated_monthly_income": "₹26,000 - ₹50,000 / month"
+    }
+  },
+  {
+    "id": "BWS/Q0202",
+    "sector": "Beauty & Wellness",
+    "trade_title": "Assistant Barber & Mens Grooming Stylist",
+    "trade_title_hi": "नाई एवं पुरुष ग्रूमिंग स्टाइलिस्ट (हेयर सैलून)",
+    "trade_title_gu": "વાળંદ અને મેન્સ ગ્રુમિંગ સ્ટાઈલિસ્ટ (હેર સલૂન)",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 240,
+    "mobility_required": "Moderate (Salon or doorstep service)",
+    "core_skills": [
+      "scissor and electric clipper hair cutting",
+      "straight razor shaving and beard styling",
+      "skin cleansing, facial massage, and bleach application",
+      "hair wash, conditioning, and blow dry styling",
+      "sterilization of blades, scissors, and salon hygiene"
+    ],
+    "transferable_skills": [
+      "blade and scissor dexterity",
+      "customer communication",
+      "cleanliness and grooming sense",
+      "steady hands"
+    ],
+    "keywords": [
+      "barber", "haircut", "salon", "grooming", "shave", "mens hair", "beard", "nai", "valand",
+      "नाई", "बाल काटना", "सैलून", "दाढ़ी", "हेयर कटिंग",
+      "વાળંદ", "હેર કટિંગ", "સલૂન", "દાઢી"
+    ],
+    "wage_route": {
+      "job_role": "Mens Salon Hair Stylist / Grooming Associate",
+      "starting_salary_range": "₹15,000 - ₹25,000 / month",
+      "hiring_companies": "Jawed Habib, Naturals, Looks Salon, Urban Company Grooming"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Village Modern Mens Grooming & Hair Styling Salon",
+      "pm_ajay_grant_support": "₹45,000 PM-AJAY GIA hydraulic chair & professional salon kit grant",
+      "equipment_needed": "Hydraulic barber chair, UV sterilizer box, professional clippers, hair dryer",
+      "estimated_monthly_income": "₹25,000 - ₹48,000 / month"
+    }
+  },
+  {
+    "id": "THC/Q0102",
+    "sector": "Tourism & Hospitality",
+    "trade_title": "Front Office Associate & Guest Relations Assistant",
+    "trade_title_hi": "होटल फ्रंट ऑफिस एवं स्वागत सहायक",
+    "trade_title_gu": "હોટેલ ફ્રન્ટ ઓફિસ અને સ્વાગત સહાયક",
+    "nsqf_level": 4,
+    "min_education": "12th Pass",
+    "training_duration_hours": 320,
+    "mobility_required": "Low (Indoor reception desk)",
+    "core_skills": [
+      "guest check-in, check-out, and key card allocation",
+      "property management system (PMS) software operation",
+      "professional telephonic communication and query resolution",
+      "billing, cash, and card POS settlement",
+      "local tourism guidance and itinerary assistance"
+    ],
+    "transferable_skills": [
+      "spoken communication",
+      "computer literacy",
+      "polite manners",
+      "billing handling"
+    ],
+    "keywords": [
+      "hotel", "reception", "front office", "guest", "hospitality", "tourism", "computer", "billing",
+      "होटल", "रिसेप्शन", "फ्रंट ऑफिस", "मेहमान", "अतिथि", "टूरिज्म",
+      "હોટેલ", "રિસેપ્શન", "ફ્રન્ટ ઓફિસ", "પ્રવાસન"
+    ],
+    "wage_route": {
+      "job_role": "Hotel Front Desk Executive / Corporate Receptionist",
+      "starting_salary_range": "₹16,000 - ₹24,000 / month",
+      "hiring_companies": "Ginger Hotels, Lemon Tree, Sarovar Hotels, Taj Vivanta"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Rural Homestay & Local Tour Booking Facilitator",
+      "pm_ajay_grant_support": "₹40,000 PM-AJAY GIA digital front-office kiosk grant",
+      "equipment_needed": "Desktop computer with printer, high-speed Wi-Fi router, billing software",
+      "estimated_monthly_income": "₹24,000 - ₹45,000 / month"
+    }
+  },
+  {
+    "id": "THC/Q0201",
+    "sector": "Tourism & Hospitality",
+    "trade_title": "Housekeeping & Institutional Facility Attendant",
+    "trade_title_hi": "हाउसकीपिंग एवं स्वच्छता सेवा सहायक",
+    "trade_title_gu": "હાઉસકીપિંગ અને સંસ્થાકીય સ્વચ્છતા સહાયક",
+    "nsqf_level": 3,
+    "min_education": "Below 8th",
+    "training_duration_hours": 200,
+    "mobility_required": "Moderate (Building floor work)",
+    "core_skills": [
+      "guest room bed making and linen replacement",
+      "industrial floor scrubber and vacuum cleaner usage",
+      "bathroom chemical disinfection and sanitization",
+      "guest amenities replenishment and stock tracking",
+      "waste segregation and eco-friendly disposal"
+    ],
+    "transferable_skills": [
+      "cleaning",
+      "hygiene discipline",
+      "physical activity",
+      "orderliness"
+    ],
+    "keywords": [
+      "housekeeping", "cleaning", "hotel cleaning", "sanitization", "hygiene", "facility", "attendant",
+      "हाउसकीपिंग", "सफाई", "होटल सफाई", "स्वच्छता", "झाड़ू पोछा",
+      "હાઉસકીપિંગ", "સફાઈ", "હોટેલ સફાઈ", "સ્વચ્છતા"
+    ],
+    "wage_route": {
+      "job_role": "Hotel Room Attendant / Commercial Facility Cleaner",
+      "starting_salary_range": "₹14,000 - ₹19,000 / month",
+      "hiring_companies": "Sodexo, ISS Facility Services, Radisson, Ginger Hotels"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Commercial Office & Society Deep Cleaning Services",
+      "pm_ajay_grant_support": "₹40,000 PM-AJAY GIA professional floor scrubbing equipment grant",
+      "equipment_needed": "Industrial wet/dry vacuum cleaner, floor scrubber, high-pressure jet washer",
+      "estimated_monthly_income": "₹22,000 - ₹38,000 / month"
+    }
+  },
+  {
+    "id": "MEP/Q7101",
+    "sector": "Security & Facility Management",
+    "trade_title": "Unarmed Security Guard & Access Controller",
+    "trade_title_hi": "सुरक्षा गार्ड एवं प्रवेश नियंत्रक (सिक्योरिटी गार्ड)",
+    "trade_title_gu": "સુરક્ષા રક્ષક અને એક્સેસ કંટ્રોલર (સિક્યોરિટી ગાર્ડ)",
+    "nsqf_level": 3,
+    "min_education": "8th Pass",
+    "training_duration_hours": 160,
+    "mobility_required": "Moderate (Gate post and premises patrolling)",
+    "core_skills": [
+      "visitor register and visitor pass management",
+      "handheld metal detector (HHMD) and luggage scanning",
+      "fire extinguisher operation (CO2, Dry Powder)",
+      "cctv screen surveillance observation",
+      "emergency evacuation protocol and incident reporting"
+    ],
+    "transferable_skills": [
+      "physical fitness",
+      "alertness",
+      "discipline",
+      "basic register writing"
+    ],
+    "keywords": [
+      "security guard", "security", "guard", "patrol", "gate", "cctv", "fire safety", "chowkidar",
+      "सुरक्षा गार्ड", "सिक्योरिटी", "चौकीदार", "गेट", "पहरेदार",
+      "સુરક્ષા રક્ષક", "સિક્યોરિટી ગાર્ડ", "ચોકીદાર"
+    ],
+    "wage_route": {
+      "job_role": "Industrial / Residential Security Guard",
+      "starting_salary_range": "₹15,000 - ₹21,000 / month",
+      "hiring_companies": "SIS India, G4S Security, Peregrine Guarding, GIDC Security Units"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Local Security & Parking Attendant Cooperative Agency",
+      "pm_ajay_grant_support": "₹35,000 PM-AJAY GIA security gear & communication walkie-talkie grant",
+      "equipment_needed": "Handheld metal detectors, walkie-talkie sets, night searchlights, uniform sets",
+      "estimated_monthly_income": "₹20,000 - ₹35,000 / month"
+    }
+  },
+  {
+    "id": "SGJ/Q0103",
+    "sector": "Green Jobs & Renewable Energy",
+    "trade_title": "Solar Thermal Collector & Solar Water Heater Technician",
+    "trade_title_hi": "सोलर वाटर हीटर एवं थर्मल तकनीशियन",
+    "trade_title_gu": "સોલર વોટર હીટર અને થર્મલ ટેકનિશિયન",
+    "nsqf_level": 4,
+    "min_education": "8th Pass",
+    "training_duration_hours": 280,
+    "mobility_required": "High (Rooftop installation)",
+    "core_skills": [
+      "evacuated tube collector (etc) pipe assembly",
+      "insulated hot water storage tank mounting",
+      "cpvc and gi plumbing pipe connections",
+      "air vent, pressure relief valve, and backup heating element installation",
+      "leak testing and solar descaling maintenance"
+    ],
+    "transferable_skills": [
+      "plumbing",
+      "pipe connection",
+      "basic electrical wiring",
+      "rooftop safety gear handling"
+    ],
+    "keywords": [
+      "solar water heater", "solar thermal", "water heater", "solar geyser", "solar", "plumbing", "rooftop",
+      "सोलर वाटर हीटर", "सोलर गीजर", "सोलर थर्मल", "धूप", "सोलर",
+      "સોલર વોટર હીટર", "સોલર ગીઝર", "સોલર"
+    ],
+    "wage_route": {
+      "job_role": "Solar Thermal Installation Specialist / Hot Water AMC Technician",
+      "starting_salary_range": "₹16,000 - ₹23,000 / month",
+      "hiring_companies": "Tata Power Solar, Racold Solar, V-Guard Solar, Sudarshan Saur"
+    },
+    "self_employment_route": {
+      "enterprise_name": "Solar Water Heating Sales & Doorstep AMC Service Agency",
+      "pm_ajay_grant_support": "₹50,000 PM-AJAY GIA solar thermal toolkit and pipe threading grant",
+      "equipment_needed": "Pipe threading kit, pressure test pump, safety harness, step ladder, pipe wrenches",
+      "estimated_monthly_income": "₹26,000 - ₹50,000 / month"
+    }
+  }
+]
