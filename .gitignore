@@ -31,3 +31,9 @@ dist/
 Thumbs.db
 .vscode/
 .idea/
+.ipynb_checkpoints/
+
+# TTS Audio Cache
+tts_cache/
+backend/tts_cache/
+

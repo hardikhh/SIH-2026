@@ -499,8 +499,9 @@ export default function VoiceAssistantPage({ currentLang }) {
                     <button
                       className="bubble-listen-btn"
                       onClick={() => {
+                        setIsSpeaking(true);
                         speechService.stopSpeaking();
-                        speechService.speak(msg.content, currentLang);
+                        speechService.speak(msg.content, currentLang, () => setIsSpeaking(false));
                       }}
                       style={{
                         background: "none",
@@ -723,7 +724,11 @@ export default function VoiceAssistantPage({ currentLang }) {
                       <button
                         className="btn-secondary"
                         style={{ marginTop: "0.5rem", padding: "0.3rem 0.6rem", fontSize: "0.75rem" }}
-                        onClick={() => speechService.speak(displayExplanation, currentLang)}
+                        onClick={() => {
+                          setIsSpeaking(true);
+                          speechService.stopSpeaking();
+                          speechService.speak(displayExplanation, currentLang, () => setIsSpeaking(false));
+                        }}
                       >
                         <Volume2 size={14} />
                         <span>{t.listenAudio}</span>
